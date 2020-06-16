@@ -10,7 +10,9 @@ More reading: [Twilio API guide for Golang](https://www.twilio.com/blog/2017/09/
 Clone the repository.  
 `git clone https://github.com/max-jardetzky/goatAlerts`
 
-Install dependencies.  
+Install [Tesseract](https://github.com/tesseract-ocr/tesseract/wiki) (Necessary for image-to-text processing)
+
+Install Go dependencies.  
 `go get -u github.com/otiai10/gosseract`
 
 Create a file `config.txt` in the directory with 6 lines, according to these directions:  
