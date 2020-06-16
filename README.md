@@ -47,5 +47,7 @@ f89s7d89fa9s8798f798ds7fa89se7f9
 +14358934356
 ```
 
+Then, all you need to do is use `go build` and run the executable!
+
 # Usage ideas
 Use `cron` or its equivalent in your OS to schedule a daily text. :)
