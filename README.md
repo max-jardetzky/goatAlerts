@@ -15,6 +15,8 @@ Install [Tesseract](https://github.com/tesseract-ocr/tesseract/wiki) (Necessary 
 Install Go dependencies.  
 `go get -u github.com/otiai10/gosseract`
 
+If not on Mac, install the correct gowitness executable [here](https://github.com/sensepost/gowitness/releases) instead.
+
 Create a file `config.txt` in the directory with 6 lines, according to these directions:  
 ```
 {Name of shoe}  
